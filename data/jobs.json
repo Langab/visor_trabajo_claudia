@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-07T01:30:36.274180+00:00",
+ "updated": "2026-07-07T01:42:32.968158+00:00",
  "jobs": [
   {
    "id": "https://www.linkedin.com/jobs/view/4427211753",
@@ -64,14 +64,18 @@
    "first_seen": "2026-07-06",
    "date_posted": "2026-06-30",
    "fit": "high",
-   "status": "nueva",
+   "status": "evaluada",
    "salary": "",
-   "notes": "El corazón del cargo es la Ley 21.015 y acreditación: su certificación ChileValora de Gestora de Inclusión es diferenciador directo. Psicología ✓, diagnósticos/planes/capacitaciones de inclusión ✓. Ojo: seniority de coordinación, bajo su nivel de dirección. Híbrido",
+   "notes": "El corazón del cargo es la Ley 21.015 y acreditación: su certificación ChileValora de Gestora de Inclusión es diferenciador directo. Psicología ✓, diagnósticos/planes/capacitaciones de inclusión ✓. Ojo: seniority de coordinación, bajo su nivel de dirección. Híbrido · 79/100 Fit Fuerte · Certificación ChileValora = diferenciador directo; híbrido RM; brechas: equidad de género formal, herramientas IA; ojo seniority de coordinación",
    "category": "gestion-personas",
    "source": "LinkedIn",
    "modality": "hibrido",
-   "match_pct": null,
-   "gaps": []
+   "match_pct": 79,
+   "gaps": [
+    "Equidad de género como eje formal (no documentado en CV)",
+    "Herramientas de IA (deseable)",
+    "Profundidad en Ley 21.275 y 21.369"
+   ]
   },
   {
    "id": "https://www.linkedin.com/jobs/view/4434248345",
