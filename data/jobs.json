@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-07T01:45:30.797644+00:00",
+ "updated": "2026-07-07T01:53:53.925304+00:00",
  "jobs": [
   {
    "id": "https://www.linkedin.com/jobs/view/4427211753",
@@ -70,11 +70,10 @@
    "category": "gestion-personas",
    "source": "LinkedIn",
    "modality": "hibrido",
-   "match_pct": 79,
+   "match_pct": 84,
    "gaps": [
-    "Equidad de género como eje formal (no documentado en CV)",
-    "Herramientas de IA (deseable)",
-    "Profundidad en Ley 21.275 y 21.369"
+    "Equidad de género como eje formal de programas (mitigado: experta en Ley 21.369)",
+    "Herramientas de IA (deseable)"
    ]
   },
   {
