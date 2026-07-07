@@ -383,7 +383,7 @@ function barRow(name, val, max, lvl, cls) {
 function renderAnalisis() {
   // Perfil: mi nivel vs demanda del mercado
   document.getElementById("perfil-skills").innerHTML =
-    '<div style="font-size:.78rem;color:var(--muted);margin-bottom:8px">Barra azul = mi nivel · barra naranja = qué tan pedida está en las ofertas recolectadas</div>' +
+    '<div style="font-size:.78rem;color:var(--muted);margin-bottom:8px">Barra morada = mi nivel · barra naranja = qué tan pedida está en las ofertas recolectadas</div>' +
     PERFIL.map(s =>
       barRow(s.name, s.nivel, 100, s.lvl) +
       barRow("", s.demanda, 100, "demanda", "o")
@@ -486,7 +486,7 @@ function renderHistorico() {
   const recent = hist.slice(-30);
   const maxN = Math.max(...recent.map(d => d.new), 1);
   document.getElementById("hist-chart").innerHTML =
-    '<div style="font-size:.78rem;color:var(--muted);margin-bottom:8px">Barra azul = ofertas nuevas ese día · verde = de alta afinidad · a la derecha, el acumulado</div>' +
+    '<div style="font-size:.78rem;color:var(--muted);margin-bottom:8px">Barra morada = ofertas nuevas ese día · verde = de alta afinidad · a la derecha, el acumulado</div>' +
     recent.map(d => {
       const fecha = new Date(d.date + "T12:00:00").toLocaleDateString("es-CL", { weekday: "short", day: "numeric", month: "short" });
       return `<div class="skillrow">
