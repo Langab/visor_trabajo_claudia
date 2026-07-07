@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-07T01:42:32.968158+00:00",
+ "updated": "2026-07-07T01:45:30.797644+00:00",
  "jobs": [
   {
    "id": "https://www.linkedin.com/jobs/view/4427211753",
@@ -212,14 +212,18 @@
    "first_seen": "2026-07-06",
    "date_posted": "2026-06-23",
    "fit": "high",
-   "status": "nueva",
+   "status": "evaluada",
    "salary": "",
-   "notes": "Equipo Talent Management corporativo: estrategias de cultura, liderazgo y talento. Pide 4+ años y liderazgo de proyectos (cumple con holgura). Brechas: insights basados en datos, uso cotidiano de IA, inglés intermedio deseable",
+   "notes": "Equipo Talent Management corporativo: estrategias de cultura, liderazgo y talento. Pide 4+ años y liderazgo de proyectos (cumple con holgura). Brechas: insights basados en datos, uso cotidiano de IA, inglés intermedio deseable · 80/100 Fit Fuerte · Equipo Talent Management; seniority correcto; brechas: uso cotidiano de IA (requisito), insights con datos, inglés intermedio deseable",
    "category": "desarrollo-organizacional",
    "source": "LinkedIn",
    "modality": "no_especificado",
-   "match_pct": null,
-   "gaps": []
+   "match_pct": 80,
+   "gaps": [
+    "Uso cotidiano de herramientas de IA (requisito)",
+    "Insights organizacionales basados en datos / people analytics",
+    "Inglés intermedio (deseable)"
+   ]
   },
   {
    "id": "https://www.linkedin.com/jobs/view/4432291969",
